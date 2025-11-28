@@ -98,7 +98,7 @@
         своими правами, пожалуйста, свяжитесь с нами:
     </p>
     <p>
-        <strong>Email:</strong> evdookimov@mail.ru<br>
+        <strong>Email:</strong> info@parking-g4.ru<br>
         <strong>Адрес:</strong> ул. Совхозная, д. 25, стр. 4, Москва, Россия
     </p>
     <hr style="margin-top: 50px; border: none; border-top: 1px solid #ddd;">
